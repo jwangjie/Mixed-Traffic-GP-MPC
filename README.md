@@ -4,6 +4,8 @@ This repository hosts the code accompanying our research on enhancing safety in 
 
 * [Enhancing Safety in Mixed Traffic: Learning-Based Modeling and Efficient Control of Autonomous and Human-Driven Vehicles](https://arxiv.org/abs/2211.04665) 
 
+### Please check our preliminary work at [GP-MPC-of-Platooning](https://github.com/CL2-UWaterloo/GP-MPC-of-Platooning).
+
 ### ARX_simulation
 This directory contains code for simulating a vehicle platoon using Model Predictive Control (MPC) with an AutoRegressive with eXogenous inputs (ARX) model combined with a Gaussian Process (GP). It includes:
 
